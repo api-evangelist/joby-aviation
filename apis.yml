@@ -1,0 +1,99 @@
+aid: joby-aviation
+name: Joby Aviation
+description: >-
+  Joby Aviation is a California-based aerospace company developing an all-electric
+  vertical take-off and landing (eVTOL) aircraft intended to operate as part of
+  a fast, quiet, and convenient air taxi service. Joby's piloted four-passenger
+  S4 aircraft is designed for a top speed of 200 mph and zero operating emissions,
+  and the company is pursuing FAA Type Certification under Part 23. Joby has
+  strategic relationships with Toyota for manufacturing, Delta Air Lines, Virgin
+  Atlantic and ANA for distribution, Uber for ground integration, the U.S.
+  Department of Defense (Agility Prime), and operates a vertically integrated
+  program covering aircraft, batteries (JoeBen cell technology via Joby's
+  battery group), software, and pilot training. Joby acquired Uber Elevate and
+  is co-located with manufacturing facilities in Marina and Santa Cruz, California,
+  with plans for early commercial passenger service in Dubai and U.S. cities.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://www.jobyaviation.com
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+position: 1
+access: 3rd-Party
+tags:
+  - Advanced Air Mobility
+  - Aerospace
+  - Air Taxi
+  - Batteries
+  - Defense
+  - eVTOL
+  - Electric Aviation
+  - FAA Certification
+  - Sustainable Aviation
+  - Urban Air Mobility
+apis: []
+common:
+  - url: https://www.jobyaviation.com/
+    name: Joby Aviation Website
+    type: Website
+  - url: https://www.jobyaviation.com/about/
+    name: About Joby
+    type: About
+  - url: https://www.jobyaviation.com/news/
+    name: Newsroom
+    type: Blog
+  - url: https://www.jobyaviation.com/aircraft/
+    name: Aircraft
+    type: Product
+  - url: https://www.jobyaviation.com/manufacturing/
+    name: Manufacturing
+    type: Manufacturing
+  - url: https://www.jobyaviation.com/pilot-careers/
+    name: Pilot Careers
+    type: Careers
+  - url: https://www.jobyaviation.com/careers/
+    name: Careers
+    type: Careers
+  - url: https://www.jobyaviation.com/contact/
+    name: Contact
+    type: Contact
+  - url: https://www.jobyaviation.com/sustainability/
+    name: Sustainability
+    type: Sustainability
+  - url: https://www.jobyaviation.com/defense/
+    name: Defense
+    type: Portal
+  - url: https://www.jobyaviation.com/dubai/
+    name: Dubai Launch
+    type: Portal
+  - url: https://ir.jobyaviation.com/
+    name: Investor Relations
+    type: InvestorRelations
+  - url: https://ir.jobyaviation.com/sec-filings
+    name: SEC Filings
+    type: Compliance
+  - url: https://www.faa.gov/newsroom
+    name: FAA Newsroom (Certification Tracking)
+    type: Regulator
+  - url: https://www.linkedin.com/company/joby-aviation/
+    name: LinkedIn
+    type: LinkedIn
+  - url: https://x.com/jobyaviation
+    name: X (Twitter)
+    type: X
+  - url: https://www.youtube.com/@JobyAviation
+    name: YouTube
+    type: YouTube
+  - url: https://www.instagram.com/jobyaviation/
+    name: Instagram
+    type: Instagram
+  - url: https://www.jobyaviation.com/terms/
+    name: Terms of Service
+    type: TermsOfService
+  - url: https://www.jobyaviation.com/privacy/
+    name: Privacy Policy
+    type: PrivacyPolicy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
