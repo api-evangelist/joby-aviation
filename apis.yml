@@ -34,6 +34,8 @@ tags:
   - Urban Air Mobility
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/joby-aviation-domain-security.yml
   - url: https://www.jobyaviation.com/
     name: Joby Aviation Website
     type: Website
