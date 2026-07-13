@@ -3,12 +3,13 @@
   "feeds": [
     {
       "source": "https://www.jobyaviation.com/news/",
-      "feed_url": "",
+      "feed_url": "https://www.jobyaviation.com/news/",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "post_count": 12,
-  "fetched": "2026-06-27T12:48:48Z",
+  "post_count": 13,
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
