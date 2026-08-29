@@ -13,6 +13,17 @@ description: >-
   battery group), software, and pilot training. Joby acquired Uber Elevate and
   is co-located with manufacturing facilities in Marina and Santa Cruz, California,
   with plans for early commercial passenger service in Dubai and U.S. cities.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
